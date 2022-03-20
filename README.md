@@ -5,6 +5,7 @@ Após realizar todos esses passos é só executar.
 OBS: A entrada dos caracteres "." ou "-" devem ser de um caracter por linha. Para enviar o código morse (letra) é necessário mandar uma linha vazia ("").
 
 Exemplo:
+
 .
 .
 -
