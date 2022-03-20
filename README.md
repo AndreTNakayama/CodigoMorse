@@ -6,9 +6,9 @@ OBS: A entrada dos caracteres "." ou "-" devem ser de um caracter por linha. Par
 
 Exemplo:
 
-.
-.
--
+>.
+>.
+>-
 
 Para continuar basta digitar qualquer valor diferente de "n". 
 Caso deseje encerrar a excução e verificar a palavra é só digitar "n" quando o programa perguntar se deseja continuar
