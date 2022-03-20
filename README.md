@@ -6,13 +6,12 @@ Após realizar todos esses passos é só executar
 
 OBS: A entrada dos caracteres "." ou "-" devem ser de um caracter por linha. Para enviar o código morse (letra) é necessário mandar uma linha vazia ("")
 
-Ex: 
+Exemplo:
 
 Digite a letra
 .
 .
 -
-
 
 Para continuar basta digitar qualquer valor diferente de "n". 
 Caso deseje encerrar a excução e verificar a palavra é só digitar "n" quando o programa perguntar se deseja continuar
