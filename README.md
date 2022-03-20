@@ -6,6 +6,7 @@ OBS: A entrada dos caracteres "." ou "-" devem ser de um caracter por linha. Par
 
 Exemplo:
 ```
+Digite a letra
 .
 .
 -
