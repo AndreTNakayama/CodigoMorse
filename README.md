@@ -12,4 +12,5 @@ Digite a letra
 -
 ```
 Para continuar basta digitar qualquer valor diferente de "n". 
-Caso deseje encerrar a excução e verificar a palavra é só digitar "n" quando o programa perguntar se deseja continuar
+
+Caso deseje encerrar o programa e verificar a palavra é só digitar "n" quando o programa perguntar se deseja continuar
